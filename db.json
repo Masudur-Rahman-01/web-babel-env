@@ -1,0 +1,60 @@
+{
+    "product":[
+        {
+            "id"        : 1,
+            "name"      : "Alo",
+            "price"     : 120,
+            "sale_price" : 100,
+            "photo"     : "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        {
+            "id"        : 2,
+            "name"      : "potol",
+            "price"     : 100,
+            "sale_price" : 80,
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7w3HHKkd14esf6rTrbP0eCcgOXZ0w_dKgSABZwvE0mZLctJ2vITHYs_iaKS9lEsVImrs&usqp=CAU"
+        },
+        {
+            "id"        : 3,
+            "name"      : "lao",
+            "price"     : 150,
+            "sale_price" : 120,
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3oZLeNNuTXhJ4RD2FdMYdoFquC7X3fv8gMCXMvd799cGISdRedl2AQlKaiK2kBTr7LBE&usqp=CAU"
+        },
+        {
+            "id"        : 4,
+            "name"      : "kumra",
+            "price"     : 90,
+            "sale_price" : 50,
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxwNKqtLZegnwEid8vSXdKjPdPk-Jr57m2LlKO9NVW0dKeaV1ijFlNooNbV3BPtvv4_mc&usqp=CAU"
+        },
+        {
+            "id"        : 5,
+            "name"      : "Alo",
+            "price"     : 120,
+            "sale_price" : 100,
+            "photo"     : "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        {
+            "id"        : 6,
+            "name"      : "potol",
+            "price"     : 100,
+            "sale_price" : 80,
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7w3HHKkd14esf6rTrbP0eCcgOXZ0w_dKgSABZwvE0mZLctJ2vITHYs_iaKS9lEsVImrs&usqp=CAU"
+        },
+        {
+            "id"        : 7,
+            "name"      : "lao",
+            "price"     : 150,
+            "sale_price" : 120,
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3oZLeNNuTXhJ4RD2FdMYdoFquC7X3fv8gMCXMvd799cGISdRedl2AQlKaiK2kBTr7LBE&usqp=CAU"
+        },
+        {
+            "id"        : 8,
+            "name"      : "kumra",
+            "price"     : 90,
+            "sale_price" : 50,
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxwNKqtLZegnwEid8vSXdKjPdPk-Jr57m2LlKO9NVW0dKeaV1ijFlNooNbV3BPtvv4_mc&usqp=CAU"
+        }
+    ]
+}
