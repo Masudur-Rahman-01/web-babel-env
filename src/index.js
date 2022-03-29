@@ -21,7 +21,7 @@ function get() {
         
         <div class="col-md-3 pb-4 ">
             <div class="card shadow">
-                <img style = " height: 250px; object-fit: cover" class="card-img" id="photo" src="${photo}" alt="">
+                <img style = " height: 350px; object-fit: cover" class="card-img" id="photo" src="${photo}" alt="">
                 <div class="card-body">
                     <h3>${name}</h3>
                     <p>price: ${price}</p>
@@ -38,3 +38,5 @@ function get() {
         plist.innerHTML = list
     })
 }
+
+//https://github.com/Masudur-Rahman-01/web-babel-env
